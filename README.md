@@ -1,6 +1,7 @@
-## 📊 MS Analytics @ Georgia Tech
-## ❤ Machine Learning | Probabilistic Models | Simulation
-## 🌱 diving into Deep Learning
+- 💼 I am wrapping up my Masters in Analytics @ Georgia Tech
+- ❤ I love Machine Learning, Probabilistic Models, Simulation
+- ⚡love working with R, Python, Matlab  Machine Learning, Probabilistic Models, Simulation
+- 🔭 I’m currently diving into Deep Learning
 
 <!--
 **alvarolarreategui/alvarolarreategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
