@@ -1,4 +1,4 @@
-- 💼 I am wrapping up my Masters in Analytics @gatech
+- 💼 I am wrapping up my Masters in Analytics [@gatech](https://github.com/gatech)
 - ❤ I love Machine Learning, Probabilistic Models, Simulation
 - ⚡love working with R, Python, Matlab  Machine Learning, Probabilistic Models, Simulation
 - 🔭 I’m currently diving into Deep Learning
