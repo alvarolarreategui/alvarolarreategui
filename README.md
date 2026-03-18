@@ -1,6 +1,6 @@
-## 📊 OMS Analytics student @ Georgia Tech
-## I  ❤ Python & R for Data Science 
-## 🌱 currently learning to use GitHub...
+## 📊 MS Analytics @ Georgia Tech
+## ❤ Machine Learning | Probabilistic Models | Simulation
+## 🌱 diving into Deep Learning
 
 <!--
 **alvarolarreategui/alvarolarreategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
