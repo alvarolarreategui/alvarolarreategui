@@ -2,7 +2,6 @@
 - I ❤ Machine Learning, Probabilistic Models, Simulation
 - ⚡ I enjoy coding in R, Python, Matlab
 - 🌱 I’m currently diving into Deep Learning
-- 🔭 looking forward to pupulate my personal repo!
 
 <!--
 **alvarolarreategui/alvarolarreategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
