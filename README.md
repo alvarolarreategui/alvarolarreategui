@@ -1,7 +1,15 @@
 - 💼 I am wrapping up my Masters in Analytics [@gatech](https://github.com/gatech)
 - I ❤ Machine Learning, Probabilistic Models, Simulation
 - ⚡ I enjoy coding in R, Python, Matlab
-- 🌱 I’m currently diving into Deep Learning
+
+## Group Projects @gatech
+
+### Movie Revenues
+- 🔗 https://github.gatech.edu/MGT-6203-Fall-2023-Canvas/Team-9
+- 💼 Georgia Tech's MGT6203 Data Analytics for Business class
+- 👥 Team project (5 members)
+- 💡 My role: build and test ML regression models for revuenue prediction
+
 
 <!--
 **alvarolarreategui/alvarolarreategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
