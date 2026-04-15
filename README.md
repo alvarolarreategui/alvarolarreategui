@@ -1,10 +1,12 @@
-- 💼 I am wrapping up my Masters in Analytics [@gatech](https://github.com/gatech)
+## About Me
+
+- 💼 Masters in Analytics [@gatech](https://github.com/gatech)
 - I ❤ Machine Learning, Probabilistic Models, Simulation
-- ⚡ I enjoy coding in R, Python, Matlab
+- ⚡I enjoy coding in R, Python, Matlab
 
 ## Group Projects [@gatech](https://github.com/gatech)
 
-### Movie Revenues
+### Predicting Movie Revenues
 - 🔗 https://github.gatech.edu/MGT-6203-Fall-2023-Canvas/Team-9
 - 💼 Georgia Tech's MGT6203 Data Analytics for Business class
 - 👥 Team project (5 members)
