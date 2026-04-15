@@ -2,7 +2,7 @@
 - I ❤ Machine Learning, Probabilistic Models, Simulation
 - ⚡ I enjoy coding in R, Python, Matlab
 
-## Group Projects @gatech
+## Group Projects [@gatech](https://github.com/gatech)
 
 ### Movie Revenues
 - 🔗 https://github.gatech.edu/MGT-6203-Fall-2023-Canvas/Team-9
