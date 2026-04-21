@@ -8,11 +8,15 @@
 
 ### Newsvendor Problem Application
 - 🔗 https://github.com/alvarolarreategui/monte-carlo-sim
-- 💼 Georgia Tech's ISyE6644 Simulation course
-- 
+- 💼 Associated with Georgia Tech's ISyE6644 Simulation course
+
 ### Cancer detection using Histopathological Images
 - 🔗 https://github.com/alvarolarreategui/metastatic-tissue-classification
-- 💼 Georgia Tech's ISyE7640 Computational Data Analytics course
+- 💼 Associated with Georgia Tech's ISyE7640 Computational Data Analytics course
+
+### Satellite Images Analysis
+- 🔗 https://github.com/alvarolarreategui/satellite-image-analysis
+- 💼 Associated with Harvard University IMST E158 Remote Sensing course
 
 ## Group Projects [@gatech](https://github.com/gatech)
 
