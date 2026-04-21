@@ -1,6 +1,6 @@
 ## About Me
 
-- 💼 Masters in Analytics [@gatech](https://github.com/gatech)
+- 💼 Masters in Data Analytics [@gatech](https://github.com/gatech)
 - I ❤ Machine Learning, Probabilistic Models, Simulation
 - ⚡I enjoy coding in R, Python, Matlab
 
